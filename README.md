@@ -24,10 +24,8 @@
 ## Some Apps worked
 
 
-https://play.google.com/store/apps/details?id=com.lastminuteboat
-</br>
-https://apps.apple.com/es/app/last-minute-boat/id1573378652
-</br>
+- last minute boat (android) : https://play.google.com/store/apps/details?id=com.lastminuteboat
+- last minute boat (ios) : https://apps.apple.com/es/app/last-minute-boat/id1573378652
 
 ## Where to find me
 

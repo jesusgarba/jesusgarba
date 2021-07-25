@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Jesús García Barba
 
 <!--
 **jesusgarba/jesusgarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

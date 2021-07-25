@@ -21,8 +21,17 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
+## Some Apps worked
 
-https://github.com/jesusgarba/jesusgarba/issues/2#issue-952294091
+
+https://play.google.com/store/apps/details?id=com.lastminuteboat
+</br>
+https://apps.apple.com/es/app/last-minute-boat/id1573378652
+</br>
+
+## Where to find me
+
+- Email : jesusgarba@gmail.com
 
 
 
@@ -40,6 +49,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Where to find me
 
-- Email : jesusgarba@gmail.com

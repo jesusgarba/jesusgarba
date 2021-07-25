@@ -1,7 +1,10 @@
 # 👋  Hi there, my name is Jesús García Barba
  I'm a junior mobile developer.
-# Skills
+## Skills
 [![Flutter](https://img.shields.io/badge/Flutter-6ACEFF?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
+[![Dart](https://img.shields.io/badge/Dart-194A6A?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
+</br>
+
 
 
 <!--

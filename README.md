@@ -22,9 +22,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
 
-<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
-	</a>
+
 
 <!--
 **jesusgarba/jesusgarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

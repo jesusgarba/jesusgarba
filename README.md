@@ -12,8 +12,15 @@
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
-[![Java](https://img.shields.io/badge/Java-999999?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
-
+[![Java](https://img.shields.io/badge/Java-F6F6F6?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
+</br>
+[![Php](https://img.shields.io/badge/Php-666BA1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-F53433?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+</br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+</br>
 
 <!--
 **jesusgarba/jesusgarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

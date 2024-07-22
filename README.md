@@ -12,8 +12,6 @@
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
-[![Java](https://img.shields.io/badge/Java-F6F6F6?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
-</br>
 [![Php](https://img.shields.io/badge/Php-666BA1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-F53433?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 </br>

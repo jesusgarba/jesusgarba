@@ -23,10 +23,10 @@
 
 
 - last minute boat (android) : https://play.google.com/store/apps/details?id=com.lastminuteboat
-- last minute boat (ios) : https://apps.apple.com/es/app/last-minute-boat/id1573378652
+
 
 - Be12 Code (android) : https://play.google.com/store/apps/details?id=ch.be12.be12code&hl=es_419&gl=US
-- Be12 Code (ios) : https://apps.apple.com/es/app/be12-code/id1258206661
+
 
 ## Where to find me
 
